@@ -33,7 +33,8 @@ This project focuses on an **image binary classification** task. It aims to clas
 
 ## III. Dataset Source
 
-- 📦 **Dataset**: [Dataset of faces as per emotions | Kaggle](https://www.kaggle.com)  
+- 📦 **Dataset**: [Dataset of faces as per emotions | Kaggle](https://www.kaggle.com)
+- Removed the data in the Angry section of the original dataset
 - 📊 **Content**:
   - **Happy**: 614 images  
   - **Sad**: 525 images  
